@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.Heading{
+  margin: 30px;
+}
+
+.Form{
+  margin: 20px 350px 20px 350px;
+  font-size: 150%;
+}
+
+.Imgcard{
+  margin: 40px 190px 50px 170px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
