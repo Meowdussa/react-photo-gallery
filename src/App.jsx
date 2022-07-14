@@ -3,6 +3,8 @@ import ImgForm from "./ImgForm";
 import SubmitButton from "./SubmitButton";
 import "bootstrap/dist/css/bootstrap.min.css";
 import ImgCard from "./ImgCard";
+import { useState } from 'react'; 
+
 
 function App() {
 	return (
